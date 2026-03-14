@@ -1,5 +1,5 @@
 # AssetBrick-frontend
-# 🖥️ Real Estate Fractional Ownership Platform — Frontend
+# Fractional Ownership Platform — Frontend
 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
