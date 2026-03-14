@@ -3,6 +3,7 @@
 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
+![Stellar](https://img.shields.io/badge/Settlement-Stellar-black?logo=stellar)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > The investor-facing web application for the fractional real estate platform. Browse properties, manage your portfolio, trade shares, and track dividend income — all in one place.
