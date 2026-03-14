@@ -223,8 +223,8 @@ realestate-platform-frontend/
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/realestate-platform-frontend.git
-cd realestate-platform-frontend
+git clone https://github.com/samad13/AssetBrick-frontend.git
+cd AssetBrick-frontend
 
 cp .env.local.example .env.local
 # Set NEXT_PUBLIC_API_URL to your backend URL
