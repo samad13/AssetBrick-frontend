@@ -3,7 +3,6 @@
 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
-![MUI](https://img.shields.io/badge/UI-MUI-007FFF?logo=mui)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > The investor-facing web application for the fractional real estate platform. Browse properties, manage your portfolio, trade shares, and track dividend income — all in one place.
@@ -36,9 +35,9 @@ This is the investor-facing Next.js web app for the fractional real estate platf
 
 | Layer | Technology |
 |---|---|
-| Framework | Next.js 14 (App Router) |
+| Framework | Next.js 16 |
 | Language | TypeScript |
-| UI Components | MUI (Material UI) |
+| UI Components | (Shadcn UI) |
 | Data Fetching | React Query (TanStack) |
 | State Management | Zustand |
 | Forms | React Hook Form + Zod |
