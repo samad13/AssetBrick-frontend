@@ -274,4 +274,4 @@ NEXT_PUBLIC_STELLAR_NETWORK=testnet
 
 ---
 
-> See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for how to contribute to this project.
+> See [`CONTRIBUTING.md`](AssetBrick-frontend/blob/master/CONTRIBUTING.md) for how to contribute to this project.
