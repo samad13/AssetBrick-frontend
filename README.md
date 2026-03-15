@@ -125,7 +125,7 @@ Next.js App Router
 ## Project Structure
 
 ```
-realestate-platform-frontend/
+AssetBrick-frontend/
 │
 ├── app/
 │   ├── (public)/
