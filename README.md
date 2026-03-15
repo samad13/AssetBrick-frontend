@@ -1,6 +1,6 @@
 # AssetBrick-frontend
 # Fractional Ownership Platform — Frontend
-# Figma Designs https://www.figma.com/design/MJ5m3sjyzfJLtqMrZCaFqn/AssetBrick?node-id=0-1&t=1EKn8kRDI96kBu5B-1
+
 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
@@ -30,6 +30,8 @@
 ## Overview
 
 This is the investor-facing Next.js web app for the fractional real estate platform. It connects to the NestJS backend via REST API and WebSockets to provide a real-time investment experience — from browsing properties to executing trades and receiving dividend payouts.
+
+Figma Designs https://www.figma.com/design/MJ5m3sjyzfJLtqMrZCaFqn/AssetBrick?node-id=0-1&t=1EKn8kRDI96kBu5B-1
 
 ---
 
