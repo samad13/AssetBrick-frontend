@@ -218,7 +218,7 @@ realestate-platform-frontend/
 ### Prerequisites
 
 - Node.js >= 18
-- Backend API running locally (see [Backend README](../backend/README.md))
+- Backend API running locally (see [Backend README](https://github.com/samad13/AssetBrick/blob/master/README.md))
 
 ### Installation
 
